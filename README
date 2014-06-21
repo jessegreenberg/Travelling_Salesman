@@ -1,0 +1,13 @@
+README
+
+Some work in python for a discrete structures course
+I took about a year ago.
+
+This is an example of work done in Python to solve the
+travelling salesman problem.  The problem states:
+given a weighted graph, what is the cheapest possible
+route that visits each node exactly once and returns
+to the origin city?
+
+This program implements a few famous algorithms
+to solve this combinatorics problem.
